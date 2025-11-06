@@ -4,6 +4,8 @@ This repository contains a PoC for a program that utilizes ETW to leak kernel me
 
 **Bare in mind** that administrative privileges are required to *start consuming* from ETW providers. If there is already a program that consumes ETW events that normal user has access to the trace, the normal user will be able to leak kernel addresses as well.
 
+![poc](./Resources/poc.png)
+
 ## Usage
 
 You can see an example of how to use in [EtwLeakKernel](./EtwLeakKernel/EtwLeakKernel.cpp). You can also use any other ETW consumer and request the stack, in this example it is using `Microsoft-Windows-Kernel-Network`.
